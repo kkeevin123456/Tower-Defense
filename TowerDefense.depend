@@ -1,0 +1,2031 @@
+# depslib dependency file v1.0
+1558697486 source:c:\users\user\desktop\towerdefense_v3\allegro5exception.cpp
+	<stdexcept>
+	"Allegro5Exception.hpp"
+
+1558697580 c:\users\user\desktop\towerdefense_v3\allegro5exception.hpp
+	<stdexcept>
+	<string>
+
+1558776714 source:c:\users\user\desktop\towerdefense_v3\audiohelper.cpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"AudioHelper.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1455021108 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1441867812 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1481448028 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1469587830 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1481457978 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\alplatf.h
+
+1468648396 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1365765268 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1468648396 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1468648396 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1354133440 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1365765268 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1324132252 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\alandroidcfg.h
+
+1354133440 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1365764594 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1266867720 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\alunix.h
+
+1405826630 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1280958046 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1280958046 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1285022982 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1469883462 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1440756792 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1354562834 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1442975818 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1419153622 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1337438994 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+
+1337115290 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1418566016 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1459662376 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1441520420 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1469883462 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1455671392 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1351402158 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1441867812 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1351584190 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1354562834 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1280958046 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1280958046 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1280958046 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1468648396 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1405964238 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1459662376 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1457149640 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1354562834 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1354562834 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1374838602 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\keycodes.h
+
+1422972732 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1456029388 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1459662376 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1459662376 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1354562834 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1459662376 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1462071882 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1427890064 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1333094078 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1289033210 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1459662376 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1440942196 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1459059856 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\alcompat.h
+
+1558703600 c:\users\user\desktop\towerdefense_v3\audiohelper.hpp
+	<allegro5/allegro_audio.h>
+	<string>
+
+1558705598 c:\users\user\desktop\towerdefense_v3\log.hpp
+	<fstream>
+	<iostream>
+
+1558705882 c:\users\user\desktop\towerdefense_v3\resources.hpp
+	<allegro5/bitmap.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<memory>
+	<unordered_map>
+	<string>
+
+1469883462 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1558697486 source:c:\users\user\desktop\towerdefense_v3\bullet.cpp
+	"Bullet.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558703712 c:\users\user\desktop\towerdefense_v3\bullet.hpp
+	<string>
+	"Sprite.hpp"
+
+1558705920 c:\users\user\desktop\towerdefense_v3\sprite.hpp
+	<allegro5/color.h>
+	<string>
+	"Image.hpp"
+	"Point.hpp"
+
+1558705384 c:\users\user\desktop\towerdefense_v3\image.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1558697486 c:\users\user\desktop\towerdefense_v3\iobject.hpp
+	<list>
+	<utility>
+	"Point.hpp"
+
+1558697174 c:\users\user\desktop\towerdefense_v3\point.hpp
+
+1558703770 c:\users\user\desktop\towerdefense_v3\collider.hpp
+	<allegro5/bitmap.h>
+	<memory>
+
+1558703956 c:\users\user\desktop\towerdefense_v3\enemy.hpp
+	<list>
+	<vector>
+	<string>
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558705292 c:\users\user\desktop\towerdefense_v3\gameengine.hpp
+	<allegro5/allegro.h>
+	<unordered_map>
+	<string>
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\towerdefense_v3\group.hpp
+	<list>
+	<utility>
+	"IControl.hpp"
+	"IObject.hpp"
+
+1558697486 c:\users\user\desktop\towerdefense_v3\icontrol.hpp
+	<list>
+	<utility>
+
+1558705436 c:\users\user\desktop\towerdefense_v3\iscene.hpp
+	"Group.hpp"
+
+1558705840 c:\users\user\desktop\towerdefense_v3\playscene.hpp
+	<list>
+	<utility>
+	<vector>
+	"IScene.hpp"
+	"Point.hpp"
+
+1558703804 source:c:\users\user\desktop\towerdefense_v3\collider.cpp
+	<allegro5/color.h>
+	<memory>
+	"Collider.hpp"
+	"Point.hpp"
+
+1558703878 source:c:\users\user\desktop\towerdefense_v3\dirtyeffect.cpp
+	<allegro5/base.h>
+	<allegro5/color.h>
+	<random>
+	"DirtyEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+
+1558697746 c:\users\user\desktop\towerdefense_v3\dirtyeffect.hpp
+	<string>
+	"Sprite.hpp"
+
+1558776708 source:c:\users\user\desktop\towerdefense_v3\enemy.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/color.h>
+	<cmath>
+	<random>
+	<string>
+	"AudioHelper.hpp"
+	"Bullet.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Turret.hpp"
+
+1393588066 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1558704060 c:\users\user\desktop\towerdefense_v3\explosioneffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1558706058 c:\users\user\desktop\towerdefense_v3\turret.hpp
+	<allegro5/base.h>
+	<list>
+	<string>
+	"Sprite.hpp"
+
+1558697796 source:c:\users\user\desktop\towerdefense_v3\explosioneffect.cpp
+	<cmath>
+	<string>
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1559044685 source:c:\users\user\desktop\towerdefense_v3\firebullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"FireBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\towerdefense_v3\firebullet.hpp
+	"Bullet.hpp"
+
+1559045031 source:c:\users\user\desktop\towerdefense_v3\firebullet2.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"FireBullet2.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1559044140 c:\users\user\desktop\towerdefense_v3\firebullet2.hpp
+	"Bullet.hpp"
+
+1558698078 source:c:\users\user\desktop\towerdefense_v3\gameengine.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<chrono>
+	<memory>
+	<stdexcept>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1280958046 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1459662376 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1329890786 c:\users\user\desktop\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1558705362 source:c:\users\user\desktop\towerdefense_v3\group.cpp
+	<stdexcept>
+	<utility>
+	"Group.hpp"
+	"IControl.hpp"
+	"IObject.hpp"
+
+1558697174 source:c:\users\user\desktop\towerdefense_v3\icontrol.cpp
+	"IControl.hpp"
+
+1558698142 source:c:\users\user\desktop\towerdefense_v3\image.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"IObject.hpp"
+	"Image.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558697486 source:c:\users\user\desktop\towerdefense_v3\imagebutton.cpp
+	<functional>
+	<memory>
+	"Collider.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705418 c:\users\user\desktop\towerdefense_v3\imagebutton.hpp
+	<allegro5/bitmap.h>
+	<functional>
+	<memory>
+	<string>
+	"IControl.hpp"
+	"Image.hpp"
+
+1558697394 source:c:\users\user\desktop\towerdefense_v3\iobject.cpp
+	"Point.hpp"
+	"IObject.hpp"
+
+1558698196 source:c:\users\user\desktop\towerdefense_v3\iscene.cpp
+	<allegro5/allegro.h>
+	"IScene.hpp"
+
+1558697486 source:c:\users\user\desktop\towerdefense_v3\label.cpp
+	<allegro5/allegro_font.h>
+	<memory>
+	"IObject.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705490 c:\users\user\desktop\towerdefense_v3\label.hpp
+	<allegro5/allegro_font.h>
+	<allegro5/color.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1558705510 source:c:\users\user\desktop\towerdefense_v3\laserbullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"Group.hpp"
+	"LaserBullet.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\towerdefense_v3\laserbullet.hpp
+	"Bullet.hpp"
+
+1558705532 source:c:\users\user\desktop\towerdefense_v3\laserturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Group.hpp"
+	"LaserBullet.hpp"
+	"LaserTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558706492 c:\users\user\desktop\towerdefense_v3\laserturret.hpp
+	"Turret.hpp"
+
+1558697394 source:c:\users\user\desktop\towerdefense_v3\log.cpp
+	<iostream>
+	<fstream>
+	"LOG.hpp"
+
+1558698266 source:c:\users\user\desktop\towerdefense_v3\losescene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"LoseScene.hpp"
+	"Point.hpp"
+
+1558705616 c:\users\user\desktop\towerdefense_v3\losescene.hpp
+	"IScene.hpp"
+
+1558707666 source:c:\users\user\desktop\towerdefense_v3\machinegunturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"FireBullet.hpp"
+	"Group.hpp"
+	"MachineGunTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705658 c:\users\user\desktop\towerdefense_v3\machinegunturret.hpp
+	"Turret.hpp"
+
+1559880624 source:c:\users\user\desktop\towerdefense_v3\machinegunturret2.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"FireBullet2.hpp"
+	"Group.hpp"
+	"MachineGunTurret2.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1559044943 c:\users\user\desktop\towerdefense_v3\machinegunturret2.hpp
+	"Turret.hpp"
+
+1559043535 source:c:\users\user\desktop\towerdefense_v3\main.cpp
+	"GameEngine.hpp"
+	"LOG.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"StageSelectScene.hpp"
+	"WinScene.hpp"
+	"StartScene.hpp"
+
+1558705952 c:\users\user\desktop\towerdefense_v3\stageselectscene.hpp
+	<allegro5/allegro_audio.h>
+	"IScene.hpp"
+
+1558706118 c:\users\user\desktop\towerdefense_v3\winscene.hpp
+	"IScene.hpp"
+
+1558966979 c:\users\user\desktop\towerdefense_v3\startscene.hpp
+	"IScene.hpp"
+
+1558698306 source:c:\users\user\desktop\towerdefense_v3\missilebullet.cpp
+	<cmath>
+	<random>
+	<string>
+	<utility>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"MissileBullet.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705684 c:\users\user\desktop\towerdefense_v3\missilebullet.hpp
+	<allegro5/base.h>
+	<list>
+	"Bullet.hpp"
+
+1558705734 source:c:\users\user\desktop\towerdefense_v3\missileturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Group.hpp"
+	"MissileBullet.hpp"
+	"MissileTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705720 c:\users\user\desktop\towerdefense_v3\missileturret.hpp
+	"Turret.hpp"
+
+1558705784 source:c:\users\user\desktop\towerdefense_v3\plane.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705752 c:\users\user\desktop\towerdefense_v3\plane.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1558698384 source:c:\users\user\desktop\towerdefense_v3\planeenemy.cpp
+	<string>
+	"PlaneEnemy.hpp"
+
+1558117296 c:\users\user\desktop\towerdefense_v3\planeenemy.hpp
+	"Enemy.hpp"
+
+1559313935 source:c:\users\user\desktop\towerdefense_v3\playscene.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<fstream>
+	<functional>
+	<queue>
+	<string>
+	<memory>
+	<string>
+	<iostream>
+	"AudioHelper.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"Image.hpp"
+	"Label.hpp"
+	"LaserTurret.hpp"
+	"MachineGunTurret.hpp"
+	"MachineGunTurret2.hpp"
+	"MissileTurret.hpp"
+	"Plane.hpp"
+	"PlaneEnemy.hpp"
+	"PlayScene.hpp"
+	"RobotEnemy.hpp"
+	"SoldierEnemy.hpp"
+	"Sprite.hpp"
+	"TankEnemy.hpp"
+	"Turret.hpp"
+	"TurretButton.hpp"
+	"WinScene.hpp"
+
+1559098673 c:\users\user\desktop\towerdefense_v3\robotenemy.hpp
+	"Enemy.hpp"
+
+1558117440 c:\users\user\desktop\towerdefense_v3\soldierenemy.hpp
+	"Enemy.hpp"
+
+1558697486 c:\users\user\desktop\towerdefense_v3\tankenemy.hpp
+	"Enemy.hpp"
+	"Sprite.hpp"
+
+1558706106 c:\users\user\desktop\towerdefense_v3\turretbutton.hpp
+	<string>
+	"ImageButton.hpp"
+	"Sprite.hpp"
+
+1558697394 source:c:\users\user\desktop\towerdefense_v3\point.cpp
+	<cmath>
+	"Point.hpp"
+
+1558698430 source:c:\users\user\desktop\towerdefense_v3\resources.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<list>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1559098673 source:c:\users\user\desktop\towerdefense_v3\robotenemy.cpp
+	<string>
+	"RobotEnemy.hpp"
+
+1559229162 source:c:\users\user\desktop\towerdefense_v3\slider.cpp
+	<algorithm>
+	<string>
+	"Point.hpp"
+	"Slider.hpp"
+	<iostream>
+
+1558697486 c:\users\user\desktop\towerdefense_v3\slider.hpp
+	<functional>
+	"Image.hpp"
+	"ImageButton.hpp"
+
+1558707754 source:c:\users\user\desktop\towerdefense_v3\soldierenemy.cpp
+	<string>
+	"SoldierEnemy.hpp"
+
+1558698482 source:c:\users\user\desktop\towerdefense_v3\sprite.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"Image.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558705982 source:c:\users\user\desktop\towerdefense_v3\stageselectscene.cpp
+	<allegro5/allegro_audio.h>
+	<functional>
+	<memory>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Slider.hpp"
+	"StageSelectScene.hpp"
+
+1558971702 source:c:\users\user\desktop\towerdefense_v3\startscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"StartScene.hpp"
+	"Point.hpp"
+
+1558706002 source:c:\users\user\desktop\towerdefense_v3\tankenemy.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"Point.hpp"
+	"TankEnemy.hpp"
+
+1558706098 source:c:\users\user\desktop\towerdefense_v3\turret.cpp
+	<allegro5/color.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<utility>
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1558698576 source:c:\users\user\desktop\towerdefense_v3\turretbutton.cpp
+	<allegro5/color.h>
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"TurretButton.hpp"
+
+1558698582 source:c:\users\user\desktop\towerdefense_v3\winscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"WinScene.hpp"
+
+1558697486 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\allegro5exception.cpp
+	<stdexcept>
+	"Allegro5Exception.hpp"
+
+1558697580 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\allegro5exception.hpp
+	<stdexcept>
+	<string>
+
+1558776714 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\audiohelper.cpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"AudioHelper.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1558703600 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\audiohelper.hpp
+	<allegro5/allegro_audio.h>
+	<string>
+
+1558705598 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\log.hpp
+	<fstream>
+	<iostream>
+
+1558705882 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\resources.hpp
+	<allegro5/bitmap.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<memory>
+	<unordered_map>
+	<string>
+
+1558697486 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\bullet.cpp
+	"Bullet.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558703712 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\bullet.hpp
+	<string>
+	"Sprite.hpp"
+
+1558705920 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\sprite.hpp
+	<allegro5/color.h>
+	<string>
+	"Image.hpp"
+	"Point.hpp"
+
+1558705384 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\image.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1558697486 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\iobject.hpp
+	<list>
+	<utility>
+	"Point.hpp"
+
+1558697174 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\point.hpp
+
+1558703770 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\collider.hpp
+	<allegro5/bitmap.h>
+	<memory>
+
+1558703956 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\enemy.hpp
+	<list>
+	<vector>
+	<string>
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558705292 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\gameengine.hpp
+	<allegro5/allegro.h>
+	<unordered_map>
+	<string>
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\group.hpp
+	<list>
+	<utility>
+	"IControl.hpp"
+	"IObject.hpp"
+
+1558697486 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\icontrol.hpp
+	<list>
+	<utility>
+
+1558705436 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\iscene.hpp
+	"Group.hpp"
+
+1558705840 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\playscene.hpp
+	<list>
+	<utility>
+	<vector>
+	"IScene.hpp"
+	"Point.hpp"
+
+1558703804 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\collider.cpp
+	<allegro5/color.h>
+	<memory>
+	"Collider.hpp"
+	"Point.hpp"
+
+1558703878 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\dirtyeffect.cpp
+	<allegro5/base.h>
+	<allegro5/color.h>
+	<random>
+	"DirtyEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+
+1558697746 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\dirtyeffect.hpp
+	<string>
+	"Sprite.hpp"
+
+1558776708 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\enemy.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/color.h>
+	<cmath>
+	<random>
+	<string>
+	"AudioHelper.hpp"
+	"Bullet.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Turret.hpp"
+
+1558704060 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\explosioneffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1558706058 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\turret.hpp
+	<allegro5/base.h>
+	<list>
+	<string>
+	"Sprite.hpp"
+
+1558697796 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\explosioneffect.cpp
+	<cmath>
+	<string>
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1559044685 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\firebullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"FireBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\firebullet.hpp
+	"Bullet.hpp"
+
+1559045031 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\firebullet2.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"FireBullet2.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1559044140 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\firebullet2.hpp
+	"Bullet.hpp"
+
+1558698078 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\gameengine.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<chrono>
+	<memory>
+	<stdexcept>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705362 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\group.cpp
+	<stdexcept>
+	<utility>
+	"Group.hpp"
+	"IControl.hpp"
+	"IObject.hpp"
+
+1558697174 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\icontrol.cpp
+	"IControl.hpp"
+
+1558698142 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\image.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"IObject.hpp"
+	"Image.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558697486 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\imagebutton.cpp
+	<functional>
+	<memory>
+	"Collider.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705418 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\imagebutton.hpp
+	<allegro5/bitmap.h>
+	<functional>
+	<memory>
+	<string>
+	"IControl.hpp"
+	"Image.hpp"
+
+1558697394 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\iobject.cpp
+	"Point.hpp"
+	"IObject.hpp"
+
+1558698196 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\iscene.cpp
+	<allegro5/allegro.h>
+	"IScene.hpp"
+
+1558697486 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\label.cpp
+	<allegro5/allegro_font.h>
+	<memory>
+	"IObject.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705490 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\label.hpp
+	<allegro5/allegro_font.h>
+	<allegro5/color.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1558705510 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\laserbullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"Group.hpp"
+	"LaserBullet.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\laserbullet.hpp
+	"Bullet.hpp"
+
+1558705532 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\laserturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Group.hpp"
+	"LaserBullet.hpp"
+	"LaserTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558706492 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\laserturret.hpp
+	"Turret.hpp"
+
+1558697394 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\log.cpp
+	<iostream>
+	<fstream>
+	"LOG.hpp"
+
+1558698266 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\losescene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"LoseScene.hpp"
+	"Point.hpp"
+
+1558705616 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\losescene.hpp
+	"IScene.hpp"
+
+1558707666 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\machinegunturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"FireBullet.hpp"
+	"Group.hpp"
+	"MachineGunTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705658 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\machinegunturret.hpp
+	"Turret.hpp"
+
+1559880624 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\machinegunturret2.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"FireBullet2.hpp"
+	"Group.hpp"
+	"MachineGunTurret2.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1559044943 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\machinegunturret2.hpp
+	"Turret.hpp"
+
+1559043535 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\main.cpp
+	"GameEngine.hpp"
+	"LOG.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"StageSelectScene.hpp"
+	"WinScene.hpp"
+	"StartScene.hpp"
+
+1558705952 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\stageselectscene.hpp
+	<allegro5/allegro_audio.h>
+	"IScene.hpp"
+
+1558706118 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\winscene.hpp
+	"IScene.hpp"
+
+1558966979 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\startscene.hpp
+	"IScene.hpp"
+
+1558698306 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\missilebullet.cpp
+	<cmath>
+	<random>
+	<string>
+	<utility>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"MissileBullet.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705684 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\missilebullet.hpp
+	<allegro5/base.h>
+	<list>
+	"Bullet.hpp"
+
+1558705734 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\missileturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Group.hpp"
+	"MissileBullet.hpp"
+	"MissileTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705720 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\missileturret.hpp
+	"Turret.hpp"
+
+1558705784 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\plane.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705752 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\plane.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1558698384 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\planeenemy.cpp
+	<string>
+	"PlaneEnemy.hpp"
+
+1558117296 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\planeenemy.hpp
+	"Enemy.hpp"
+
+1559313935 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\playscene.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<fstream>
+	<functional>
+	<queue>
+	<string>
+	<memory>
+	<string>
+	<iostream>
+	"AudioHelper.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"Image.hpp"
+	"Label.hpp"
+	"LaserTurret.hpp"
+	"MachineGunTurret.hpp"
+	"MachineGunTurret2.hpp"
+	"MissileTurret.hpp"
+	"Plane.hpp"
+	"PlaneEnemy.hpp"
+	"PlayScene.hpp"
+	"RobotEnemy.hpp"
+	"SoldierEnemy.hpp"
+	"Sprite.hpp"
+	"TankEnemy.hpp"
+	"Turret.hpp"
+	"TurretButton.hpp"
+	"WinScene.hpp"
+
+1559098673 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\robotenemy.hpp
+	"Enemy.hpp"
+
+1558117440 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\soldierenemy.hpp
+	"Enemy.hpp"
+
+1558697486 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\tankenemy.hpp
+	"Enemy.hpp"
+	"Sprite.hpp"
+
+1558706106 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\turretbutton.hpp
+	<string>
+	"ImageButton.hpp"
+	"Sprite.hpp"
+
+1558697394 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\point.cpp
+	<cmath>
+	"Point.hpp"
+
+1558698430 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\resources.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<list>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1559098673 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\robotenemy.cpp
+	<string>
+	"RobotEnemy.hpp"
+
+1559229162 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\slider.cpp
+	<algorithm>
+	<string>
+	"Point.hpp"
+	"Slider.hpp"
+	<iostream>
+
+1558697486 c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\slider.hpp
+	<functional>
+	"Image.hpp"
+	"ImageButton.hpp"
+
+1558707754 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\soldierenemy.cpp
+	<string>
+	"SoldierEnemy.hpp"
+
+1558698482 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\sprite.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"Image.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558705982 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\stageselectscene.cpp
+	<allegro5/allegro_audio.h>
+	<functional>
+	<memory>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Slider.hpp"
+	"StageSelectScene.hpp"
+
+1558971702 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\startscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"StartScene.hpp"
+	"Point.hpp"
+
+1558706002 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\tankenemy.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"Point.hpp"
+	"TankEnemy.hpp"
+
+1558706098 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\turret.cpp
+	<allegro5/color.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<utility>
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1558698576 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\turretbutton.cpp
+	<allegro5/color.h>
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"TurretButton.hpp"
+
+1558698582 source:c:\users\user\desktop\程式設計2\mini2\towerdefense_v3\winscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"WinScene.hpp"
+
+1558697486 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\allegro5exception.cpp
+	<stdexcept>
+	"Allegro5Exception.hpp"
+
+1558697580 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\allegro5exception.hpp
+	<stdexcept>
+	<string>
+
+1558776714 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\audiohelper.cpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"AudioHelper.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1558703600 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\audiohelper.hpp
+	<allegro5/allegro_audio.h>
+	<string>
+
+1558705598 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\log.hpp
+	<fstream>
+	<iostream>
+
+1558705882 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\resources.hpp
+	<allegro5/bitmap.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<memory>
+	<unordered_map>
+	<string>
+
+1558697486 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\bullet.cpp
+	"Bullet.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558703712 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\bullet.hpp
+	<string>
+	"Sprite.hpp"
+
+1558705920 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\sprite.hpp
+	<allegro5/color.h>
+	<string>
+	"Image.hpp"
+	"Point.hpp"
+
+1558705384 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\image.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1558697486 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\iobject.hpp
+	<list>
+	<utility>
+	"Point.hpp"
+
+1558697174 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\point.hpp
+
+1558703770 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\collider.hpp
+	<allegro5/bitmap.h>
+	<memory>
+
+1558703956 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\enemy.hpp
+	<list>
+	<vector>
+	<string>
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558705292 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\gameengine.hpp
+	<allegro5/allegro.h>
+	<unordered_map>
+	<string>
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\group.hpp
+	<list>
+	<utility>
+	"IControl.hpp"
+	"IObject.hpp"
+
+1558697486 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\icontrol.hpp
+	<list>
+	<utility>
+
+1558705436 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\iscene.hpp
+	"Group.hpp"
+
+1558705840 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\playscene.hpp
+	<list>
+	<utility>
+	<vector>
+	"IScene.hpp"
+	"Point.hpp"
+
+1558703804 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\collider.cpp
+	<allegro5/color.h>
+	<memory>
+	"Collider.hpp"
+	"Point.hpp"
+
+1558703878 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\dirtyeffect.cpp
+	<allegro5/base.h>
+	<allegro5/color.h>
+	<random>
+	"DirtyEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+
+1558697746 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\dirtyeffect.hpp
+	<string>
+	"Sprite.hpp"
+
+1558776708 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\enemy.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/color.h>
+	<cmath>
+	<random>
+	<string>
+	"AudioHelper.hpp"
+	"Bullet.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Turret.hpp"
+
+1558704060 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\explosioneffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1558706058 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\turret.hpp
+	<allegro5/base.h>
+	<list>
+	<string>
+	"Sprite.hpp"
+
+1558697796 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\explosioneffect.cpp
+	<cmath>
+	<string>
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1559044685 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\firebullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"FireBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\firebullet.hpp
+	"Bullet.hpp"
+
+1559045031 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\firebullet2.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"FireBullet2.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1559044140 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\firebullet2.hpp
+	"Bullet.hpp"
+
+1558698078 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\gameengine.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<chrono>
+	<memory>
+	<stdexcept>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705362 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\group.cpp
+	<stdexcept>
+	<utility>
+	"Group.hpp"
+	"IControl.hpp"
+	"IObject.hpp"
+
+1558697174 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\icontrol.cpp
+	"IControl.hpp"
+
+1558698142 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\image.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"IObject.hpp"
+	"Image.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558697486 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\imagebutton.cpp
+	<functional>
+	<memory>
+	"Collider.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705418 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\imagebutton.hpp
+	<allegro5/bitmap.h>
+	<functional>
+	<memory>
+	<string>
+	"IControl.hpp"
+	"Image.hpp"
+
+1558697394 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\iobject.cpp
+	"Point.hpp"
+	"IObject.hpp"
+
+1558698196 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\iscene.cpp
+	<allegro5/allegro.h>
+	"IScene.hpp"
+
+1558697486 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\label.cpp
+	<allegro5/allegro_font.h>
+	<memory>
+	"IObject.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705490 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\label.hpp
+	<allegro5/allegro_font.h>
+	<allegro5/color.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1558705510 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\laserbullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"Group.hpp"
+	"LaserBullet.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558697486 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\laserbullet.hpp
+	"Bullet.hpp"
+
+1558705532 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\laserturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Group.hpp"
+	"LaserBullet.hpp"
+	"LaserTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558706492 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\laserturret.hpp
+	"Turret.hpp"
+
+1558697394 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\log.cpp
+	<iostream>
+	<fstream>
+	"LOG.hpp"
+
+1558698266 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\losescene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"LoseScene.hpp"
+	"Point.hpp"
+
+1558705616 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\losescene.hpp
+	"IScene.hpp"
+
+1558707666 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\machinegunturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"FireBullet.hpp"
+	"Group.hpp"
+	"MachineGunTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705658 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\machinegunturret.hpp
+	"Turret.hpp"
+
+1559880624 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\machinegunturret2.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"FireBullet2.hpp"
+	"Group.hpp"
+	"MachineGunTurret2.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1559044943 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\machinegunturret2.hpp
+	"Turret.hpp"
+
+1559043535 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\main.cpp
+	"GameEngine.hpp"
+	"LOG.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"StageSelectScene.hpp"
+	"WinScene.hpp"
+	"StartScene.hpp"
+
+1558705952 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\stageselectscene.hpp
+	<allegro5/allegro_audio.h>
+	"IScene.hpp"
+
+1558706118 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\winscene.hpp
+	"IScene.hpp"
+
+1558966979 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\startscene.hpp
+	"IScene.hpp"
+
+1558698306 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\missilebullet.cpp
+	<cmath>
+	<random>
+	<string>
+	<utility>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"MissileBullet.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705684 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\missilebullet.hpp
+	<allegro5/base.h>
+	<list>
+	"Bullet.hpp"
+
+1558705734 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\missileturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Group.hpp"
+	"MissileBullet.hpp"
+	"MissileTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1558705720 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\missileturret.hpp
+	"Turret.hpp"
+
+1558705784 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\plane.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1558705752 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\plane.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1558698384 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\planeenemy.cpp
+	<string>
+	"PlaneEnemy.hpp"
+
+1558117296 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\planeenemy.hpp
+	"Enemy.hpp"
+
+1559313935 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\playscene.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<fstream>
+	<functional>
+	<queue>
+	<string>
+	<memory>
+	<string>
+	<iostream>
+	"AudioHelper.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"Image.hpp"
+	"Label.hpp"
+	"LaserTurret.hpp"
+	"MachineGunTurret.hpp"
+	"MachineGunTurret2.hpp"
+	"MissileTurret.hpp"
+	"Plane.hpp"
+	"PlaneEnemy.hpp"
+	"PlayScene.hpp"
+	"RobotEnemy.hpp"
+	"SoldierEnemy.hpp"
+	"Sprite.hpp"
+	"TankEnemy.hpp"
+	"Turret.hpp"
+	"TurretButton.hpp"
+	"WinScene.hpp"
+
+1559098673 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\robotenemy.hpp
+	"Enemy.hpp"
+
+1558117440 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\soldierenemy.hpp
+	"Enemy.hpp"
+
+1558697486 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\tankenemy.hpp
+	"Enemy.hpp"
+	"Sprite.hpp"
+
+1558706106 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\turretbutton.hpp
+	<string>
+	"ImageButton.hpp"
+	"Sprite.hpp"
+
+1558697394 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\point.cpp
+	<cmath>
+	"Point.hpp"
+
+1558698430 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\resources.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<list>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1559098673 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\robotenemy.cpp
+	<string>
+	"RobotEnemy.hpp"
+
+1559229162 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\slider.cpp
+	<algorithm>
+	<string>
+	"Point.hpp"
+	"Slider.hpp"
+	<iostream>
+
+1558697486 c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\slider.hpp
+	<functional>
+	"Image.hpp"
+	"ImageButton.hpp"
+
+1558707754 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\soldierenemy.cpp
+	<string>
+	"SoldierEnemy.hpp"
+
+1558698482 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\sprite.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"Image.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1558705982 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\stageselectscene.cpp
+	<allegro5/allegro_audio.h>
+	<functional>
+	<memory>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Slider.hpp"
+	"StageSelectScene.hpp"
+
+1558971702 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\startscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"StartScene.hpp"
+	"Point.hpp"
+
+1558706002 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\tankenemy.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"Point.hpp"
+	"TankEnemy.hpp"
+
+1558706098 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\turret.cpp
+	<allegro5/color.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<utility>
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1558698576 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\turretbutton.cpp
+	<allegro5/color.h>
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"TurretButton.hpp"
+
+1558698582 source:c:\users\user\desktop\資工課程\程式設計2\mini2\towerdefense_v3\winscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"WinScene.hpp"
+
